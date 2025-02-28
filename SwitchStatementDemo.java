@@ -46,6 +46,5 @@ switch (studentGrade) {
     default:
         System.out.println("Invalid grade.");
 }
-
     }
 }
